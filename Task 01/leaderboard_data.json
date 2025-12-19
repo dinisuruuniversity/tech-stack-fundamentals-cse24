@@ -79,5 +79,30 @@
     "grade": "D",
     "last_updated": "2025-12-19 06:33 UTC",
     "submission_count": 1
+  },
+  "Sachini_Gunasekara": {
+    "student": "Sachini_Gunasekara",
+    "file_structure": 10,
+    "semantic_html": 3,
+    "functionality": 5,
+    "design": 12,
+    "responsive": 8,
+    "issues": [
+      "\u274c No <nav> tag",
+      "\u274c No <header> tag",
+      "\u274c No <main> tag",
+      "\u26a0\ufe0f No <article> tags for projects",
+      "\u274c No form or labels",
+      "\u26a0\ufe0f Limited input fields",
+      "\u26a0\ufe0f No details/summary (collapsible sections)",
+      "\u274c No lists (ul/ol)",
+      "\u26a0\ufe0f No hover effects",
+      "\u26a0\ufe0f Missing alt text on images",
+      "\u274c No media queries - not responsive"
+    ],
+    "total": 38,
+    "grade": "F",
+    "last_updated": "2025-12-19 06:35 UTC",
+    "submission_count": 1
   }
 }
